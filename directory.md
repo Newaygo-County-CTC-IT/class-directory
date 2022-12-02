@@ -151,6 +151,14 @@
 
 ---
 
+## Brendon Wright
+
+* email: brendonewright@gmail.com
+* github: Brendon-Wright
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPpDt+FpKsJkwmEqHvi4Qq19j5ac4HCPKhlDeKevaQ8m brendonewright@gmail.com
+
+---
+
 ## Maddy Zainea
 * email: Madisonwenberg@gmail.com
 * github: YokoRyo
@@ -172,5 +180,6 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHKg5DqEkUmOjeXshP51KlCINGORbsLQfGX7/PvnEyqH charlesthemanwithaplan@gmail.com~
 
 ---
+
 
 
