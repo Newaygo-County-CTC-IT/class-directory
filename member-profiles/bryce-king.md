@@ -1,4 +1,4 @@
-## bryce king
+## Bryce King
 
 * email: bryce king kingbryce660@gamil.com.edu
 * github: kingbryce1
