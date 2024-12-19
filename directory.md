@@ -89,6 +89,14 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAqC7PornHjYNIeR5NAH9GOl6MzBGI92K6XN+dNJl8Zx
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGAqSNPsmm7hPuw5kyoE2cnofAh6nQtkmbUx8+Nxzej5 
 
 ---
+## Mason Witte
+
+* email: wittemas308@gmail.com
+* github: wittemas
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIOyjrNQ7oqt/qgaQNppQey8U7H192xUz7rZVGkoodUX
+
+
+---
 
 ## Melisa Victorino 
 
