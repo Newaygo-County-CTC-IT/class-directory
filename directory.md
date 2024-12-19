@@ -152,3 +152,10 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAqC7PornHjYNIeR5NAH9GOl6MzBGI92K6XN+dNJl8Zx
 
 ---
 
+## Zack Temple
+
+* email: smallrandomfish@gmail.com 
+* github: smallrandomfish
+* ssh-key: git@github.com:smallrandomfish/class-directory.git
+
+---
